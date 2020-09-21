@@ -1,1 +1,1 @@
-# VeraMaris.GitHub.io
+# veramaris.github.io
